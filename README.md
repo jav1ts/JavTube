@@ -23,4 +23,12 @@ Below the embedded video player, there is the VideoDetail component which shows 
 
 When the app first loads, you will see a search bar at the top, an embedded video player showing a video for Cornell Tech, and a list of 5 related videos on the right side.
 
+<img width="1047" alt="Screen Shot 2020-09-09 at 8 17 12 AM" src="https://user-images.githubusercontent.com/55659287/92597630-afa2d100-f275-11ea-94df-0cd556a1f81c.png">
+
 Type in the search bar the video that you want to search for and press enter. The embedded video player will update to show the first result from the YouTube API and the list on the right will update to show 5 related videos.
+
+<img width="1053" alt="Screen Shot 2020-09-09 at 8 18 37 AM" src="https://user-images.githubusercontent.com/55659287/92597633-afa2d100-f275-11ea-94bf-9c9b9c382e2a.png">
+
+If you select one of the videos from the list on the right, the embedded video player and the video's details (title & description) will update below it as well.
+
+<img width="1049" alt="Screen Shot 2020-09-09 at 8 19 25 AM" src="https://user-images.githubusercontent.com/55659287/92597635-b03b6780-f275-11ea-927c-f81679d429cb.png">
